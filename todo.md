@@ -18,4 +18,8 @@
 
 - Faire des excepts (!=) pour le main.js (#D2D2D2 | # | # | #)
 
-- Lien github + repo (via je sais plus quoi -> code contact.html)
+- Lien github + repo (via je sais plus quoi -> code contact.html) ✅
+
+- CodePen sur le contact
+
+- Virer le code en bas de contact
